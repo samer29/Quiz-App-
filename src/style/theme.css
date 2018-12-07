@@ -1,0 +1,184 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5 déc. 2018, 12:39:47
+    Author     : samer
+*/
+
+*
+{
+    -fx-primary :#f89d2d ;
+    -fx-secondary : #ececeb;
+    -fx-primarytext : #B2B2B2;
+    -fx-blue: #008793;
+    -fx-darkblue:#004d7a;
+    -fx-red: #FF0000;
+    -fx-green:#00bf72;  
+    -fx-black:#29323c;
+    -fx-grey:#485563;
+}
+.root{ 
+/* -fx-background-color: linear-gradient(to right, -fx-secondary, -fx-primary); */
+/*  -fx-background-color: linear-gradient(to right, #1e130c, #9a8478); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+-fx-background-color:linear-gradient(to right, -fx-grey, -fx-black);
+ /*background: linear-gradient(to right, #c94b4b, #4b134f);*/
+}
+.glyph-icon{
+    -fx-fill: -fx-secondary;
+}
+.glyph-icon:hover{
+    -fx-cursor: hand;
+    -fx-fill: -fx-secondary;
+}
+.button{
+    -fx-text-fill: -fx-secondary;
+    -fx-background-color: -fx-primary;
+    -fx-border-color: -fx-primarytext;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-font-size: 13pt;
+}
+
+.false_answer{
+    -fx-text-fill: -fx-secondary;
+    -fx-background-color: -fx-red;
+    -fx-border-color: -fx-primarytext;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-font-size: 13pt;
+}
+.true_answer{
+    -fx-text-fill: -fx-secondary;
+    -fx-background-color: -fx-green;
+    -fx-border-color: -fx-primarytext;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-font-size: 13pt;
+}
+
+.button:hover{
+    -fx-border-color: -fx-secondary;
+    -fx-background-color: -fx-secondary;
+    -fx-text-fill: -fx-primary;
+   
+}
+
+.jfx-text-field{
+    -fx-text-fill: -fx-primarytext;
+    -fx-font-size : 13pt;
+    -jfx-focus-color: -fx-secondary;
+    -jfx-unfocus-color: -fx-secondary;
+    -fx-prompt-text-fill: -fx-primarytext;
+
+}
+.text-field
+{
+    -fx-prompt-text-fill: -fx-secondary; /*Yellow - floating label*/
+    -fx-text-fill: -fx-primarytext; /*Yellow - input color*/
+    -fx-highlight-fill: -fx-green; /*Green*/
+}
+.wrong-enteries{
+    -jfx-unfocus-color : -fx-red;
+    -jfx-focus-color:-fx-red;
+}
+
+/**Styling Label*/
+
+.label{
+    -fx-text-fill:-fx-primarytext;
+    -fx-font-size:12pt;
+    -fx-text-alignment: center;
+}
+.label-normal{
+    -fx-text-fill:-fx-secondary;
+    -fx-font-size:12pt;
+    -fx-text-alignment: center;
+} 
+.label-Title{
+    -fx-text-fill:-fx-primarytext ;
+    -fx-font-size:24pt;
+    -fx-font-weight:bold;
+    -fx-text-alignment: center;
+} 
+.pane{
+    -fx-border-color:-fx-secondary;
+    
+}
+.text-main{
+    -fx-fill:-fx-secondary;
+    -fx-font-size:14pt;
+    -fx-text-alignment: center;
+    -fx-background-color:-fx-primary;
+}
+.jfx-radio-button{
+    -fx-text-fill: -fx-secondary;
+    -fx-font-size:12pt;
+    -jfx-selected-color: -fx-secondary;
+    -jfx-unselected-color: -fx-primary;
+}
+/*Styling of the combobox */
+
+.jfx-combo-box{
+    -jfx-focus-color: -fx-secondary;
+    -jfx-unfocus-color: -fx-secondary;
+    -fx-font-size:13pt;
+    -fx-prompt-text-fill: -fx-secondary;
+
+}
+
+.jfx-combo-box .cell:selected {
+    -fx-text-fill: -fx-primarytext;
+}
+.combo-box .list-cell 
+{
+    -fx-background: -fx-primary;
+    -fx-background-color: transparent;
+    -fx-text-fill: -fx-primarytext;
+}
+
+.jfx-combo-box .list-view 
+{
+    -fx-background-color: -fx-primary, -fx-primary;
+    -fx-background-insets: 0, 1;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 8, 0.0 , 0 , 0 );
+}    
+
+.jfx-combo-box .list-view .list-cell 
+{
+    -fx-background-color: -fx-primary;
+}
+
+
+.jfx-combo-box .list-view .list-cell:filled:hover 
+{
+    -fx-background-color: -fx-secondary;
+    -fx-text-fill: -fx-primary;
+}
+/*Dialog styling*/
+.dialog-button{
+    -fx-border-color: -fx-green;
+    -fx-text-fill: white;
+    -fx-border-radius: 1px;
+    -fx-background-radius: 3px;
+}
+
+.dialog-button:hover{
+    -fx-background-color: -fx-green;
+    -fx-border-color: derive(-fx-green, -20%);
+    -fx-text-fill: white;
+}
+.dialog-button-error{
+    -fx-border-color: -fx-secondary;
+    -fx-text-fill: -fx-secondary;
+    -fx-border-radius: 1px;
+    -fx-background-radius: 3px;
+}
+.jfx-dialog-layout{
+    -fx-background-color: linear-gradient(to right,-fx-black , -fx-grey);
+}
+.jfx-layout-heading .text { 
+    -fx-fill: -fx-secondary; 
+}

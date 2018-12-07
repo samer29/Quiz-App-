@@ -1,0 +1,237 @@
+answer1 is Depends on the data type
+answer2 is ac
+answer1 is 0
+answer2 is ace
+answer3 is A new type of Applet
+answer4 is No errors
+answer5 is x
+answer6 is Class ArithmeticException only
+answer1 is Depends on the data type
+answer2 is ac
+answer1 is No default value for local variables
+answer1 is 0
+answer1 is Null
+answer1 is Depends on the data type
+answer1 is No default value for local variables
+answer1 is 0
+answer1 is 0
+answer1 is Depends on the data type
+answer2 is ab
+answer1 is 0
+answer1 is Depends on the data type
+answer2 is ace
+answer2 is ac
+answer2 is ace
+answer3 is A segment of code to be run once
+answer4 is Compilation error
+answer1 is Null
+answer1 is 0
+answer1 is Depends on the data type
+answer2 is ac
+answer2 is bd
+answer2 is ab
+answer1 is Null
+answer2 is bd
+answer2 is ab
+answer1 is Depends on the data type
+answer2 is ace
+answer3 is A segment of code to be run a specified amount of times
+answer4 is Runtime error
+answer5 is x+1
+answer6 is Class RunTimeException and its subclasses
+answer7 is traceMessage()
+answer8 is NumberFormatException
+answer9 is Only when any exception is thrown in a try{} block
+answer10 is sleep()
+answer1 is 0
+answer1 is No default value for local variables
+answer1 is 0
+answer2 is bd
+answer3 is A segment of code to be run a specified amount of times
+answer4 is No errors
+answer5 is x-1
+answer6 is Class IOException and its subclasses
+answer3 is A segment of code to be run infinite times
+answer3 is A segment of code to be run a specified amount of times
+answer4 is Runtime error
+answer5 is x+1
+answer6 is Class IOException and its subclasses
+answer1 is 0
+answer2 is bd
+answer3 is A segment of code to be run infinite times
+answer4 is No errors
+answer5 is x-1
+answer6 is Class RunTimeException and its subclasses
+answer7 is getMessage()
+answer8 is NumberFormatException
+answer9 is Only when any exception is thrown in a try{} block
+answer1 is 0
+answer2 is ac
+answer3 is A segment of code to be run infinite times
+answer4 is None of above
+answer5 is x-1
+answer6 is Class IOException and its subclasses
+answer7 is getMessage()
+answer8 is ArithmeticException
+answer9 is Only when any exception is thrown in a try{} block
+answer10 is wait()
+answer10 is wait()
+answer10 is wait()
+answer9 is Only when any exception is thrown in a try{} block
+answer9 is Only when any exception is thrown in a try{} block
+answer10 is wait()
+answer9 is Only when any exception is thrown in a try{} block
+answer10 is wait()
+answer2 is ac
+answer10 is wait()
+answer7 is getMessage()
+answer8 is NumberFormatException
+answer9 is Only when an unhandled exception is thrown in a try{} block";
+answer10 is wait()
+answer1 is 0
+answer2 is ac
+answer3 is A segment of code to be run infinite times
+answer4 is Runtime error
+answer5 is 0
+answer6 is Class RunTimeException and its subclasses
+answer7 is printMessage()
+answer8 is RunTimeException
+answer9 is Only when any exception is thrown in a try{} block
+answer10 is InputStream access
+answer1 is No default value for local variables
+answer2 is ac
+answer3 is A new type of Applet
+answer4 is Runtime error
+answer5 is x-1
+answer6 is Class Exception
+answer7 is traceMessage()
+answer1 is Null
+answer2 is ace
+answer10 is InputStream access
+answer10 is notify()
+answer9 is Only when any exception is thrown in a try{} block
+answer10 is notify()
+answer10 is wait()
+answer9 is Only when any exception is thrown in a try{} block
+answer10 is wait()
+answer10 is InputStream access
+answer10 is InputStream access
+answer1 is 0
+answer2 is ab
+answer3 is A segment of code to be run infinite times
+answer4 is No errors
+answer5 is x-1
+answer6 is Class IOException and its subclasses
+answer7 is getMessage()
+answer8 is RunTimeException
+answer9 is Always after execution has left a try{} block, no matter for what reason
+answer10 is notify()
+answer10 is sleep()
+answer10 is wait()
+answer1 is No default value for local variables
+answer2 is ac
+answer3 is A segment of code to be run infinite times
+answer4 is Runtime error
+answer5 is 0
+answer6 is Class RunTimeException and its subclasses
+answer7 is traceMessage()
+answer8 is NumberFormatException
+answer9 is Always after execution has left a try{} block, no matter for what reason
+answer10 is InputStream access
+answer1 is Depends on the data type
+answer2 is ac
+answer1 is 0
+answer2 is ac
+answer3 is A segment of code to be run infinite times
+answer4 is No errors
+answer5 is x-1
+answer6 is Class RunTimeException and its subclasses
+answer7 is getMessage()
+answer8 is NumberFormatException
+answer9 is Always after execution has left a try{} block, no matter for what reason
+answer10 is notify()
+answer1 is New York
+answer1 is Paris
+answer1 is London
+answer1 is Paris
+answer2 is ac
+answer3 is A segment of code to be run a specified amount of times
+answer4 is No errors
+answer1 is Paris
+answer1 is London
+answer2 is ac
+answer3 is A segment of code to be run infinite times
+answer4 is No errors
+answer5 is x-1
+answer6 is x-1
+answer7 is x-1
+answer8 is x-1
+answer9 is x-1
+answer10 is x-1
+answer1 is London
+answer2 is ace
+answer3 is A segment of code to be run a specified amount of times
+answer4 is No errors
+answer5 is x-1
+answer6 is Class RunTimeException and its subclasses
+answer7 is getMessage()
+answer8 is NumberFormatException
+answer9 is Always after execution has left a try{} block, no matter for what reason
+answer10 is notify()
+answer1 is New York
+answer2 is ac
+answer3 is A segment of code to be run infinite times
+answer4 is No errors
+answer5 is x
+answer6 is Class IOException and its subclasses
+answer7 is getMessage()
+answer8 is NumberFormatException
+answer9 is Only when any exception is thrown in a try{} block
+answer10 is notify()
+answer1 is London
+answer2 is ac
+answer3 is A segment of code to be run infinite times
+answer4 is Runtime error
+answer5 is x-1
+answer6 is Class IOException and its subclasses
+answer7 is getMessage()
+answer8 is RunTimeException
+answer9 is Always after execution has left a try{} block, no matter for what reason
+answer10 is notify()
+answer1 is London
+answer1 is London
+answer1 is New York
+answer2 is ace
+answer3 is A new type of Applet
+answer2 is ace
+answer3 is A segment of code to be run infinite times
+answer4 is Runtime error
+answer5 is x-1
+answer6 is Class IOException and its subclasses
+answer7 is printMessage()
+answer8 is NumberFormatException
+answer9 is Always after execution has left a try{} block, no matter for what reason
+answer10 is notify()
+answer1 is first proposition
+answer1 is Depends on the data type
+answer2 is Depends on the data type
+answer3 is A segment of code to be run a specified amount of times
+answer4 is Null
+answer5 is notify()
+answer6 is ace
+answer7 is getError()
+answer1 is 0
+answer2 is 0
+answer1 is wait()
+answer2 is A new type of Applet
+answer3 is Only when any exception is thrown in a try{} block
+answer4 is ac
+answer5 is ab
+answer6 is A segment of code to be run a specified amount of times
+answer7 is getMessage()
+answer8 is ac
+answer9 is Null
+answer10 is Class IOException and its subclasses
+answer1 is No errors
+answer2 is Runtime error
+answer3 is notify()
